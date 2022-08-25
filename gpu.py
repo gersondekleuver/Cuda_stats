@@ -45,7 +45,3 @@ class GPU_DISPLAY():
 ║ GPU's detected:{self.__fit_string("GPU's detected", self.size_box_1)}   {self.__color_text(self.GPU_num)}{self.__fit_string(self.GPU_num, self.size_box_2)}
 {GPU_print}
 ╚═════════════════════╩════════════════════════════════════════╝""")
-
-
-gpu = GPU_DISPLAY()
-print(gpu)
