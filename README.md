@@ -1,3 +1,3 @@
 # Cuda stats
 
-Tiny script for printing detected hardware and software for pytorch
+Made a tiny script for printing detected hardware and software for pytorch
